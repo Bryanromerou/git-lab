@@ -20,7 +20,7 @@ Part 3
 
 Part 4
 
-1)
-2)
+1) A good example of why to use merge would be so that you would not delete anyone elses code. however if the system is not working properly it would be better for a pull request.
+2) git push -u origin master
 
 
