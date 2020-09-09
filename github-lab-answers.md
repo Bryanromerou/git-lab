@@ -6,17 +6,17 @@ Part 1
 
 Part 2
 
-1)
-2)
-3)
-4)
-5)
+1) git pull
+2) git reset
+3) git reset or revert
+4) It is important because it overwrites everthing.
+5) You might want to reset if you have a fatal error and it might be easier to reset than find the bug.
 
 Part 3
 
-1)
-2)
-3)
+1) git checkout(Followed by the name of the new branch)
+2) git checkout(Followed by the name of the branch)
+3) One reason would be so that merging would go by much smoother.
 
 Part 4
 
